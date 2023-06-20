@@ -1,6 +1,7 @@
-<div>
-<h2 align="center">Hi my name is Daniel</h2>
-<div>
+<div align ="center">
+<h2>Hi my name is Daniel</h2>
+<img src = "howl.png">
+</div>
   
 I'm currently student at [Georgia Institute of Technology](https://www.gatech.edu)
 - studying Computer Science for Machine Learning and Theory  

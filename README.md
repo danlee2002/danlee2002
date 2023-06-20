@@ -1,6 +1,6 @@
 <div align ="center">
 <h2>Hi my name is Daniel</h2>
-<img src = "howl.png">
+<img src = "howl.png" height="400" width="398">
 </div>
   
 I'm currently student at [Georgia Institute of Technology](https://www.gatech.edu)

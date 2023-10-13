@@ -1,12 +1,5 @@
-<div align ="center">
-<h2>Hi my name is Daniel</h2>
-<img src = "howl.png" height="400" width="398">
-</div>
-  
-I'm currently student at [Georgia Institute of Technology](https://www.gatech.edu)
-- studying Computer Science for Machine Learning and Theory  
-- passionate about Mathematics and Data Science
-- enjoys cooking and listening to [music](https://open.spotify.com/user/jfbkf7j6hs62dqograks03wrk?si=4cdc1542763e4b5b)
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danlee2002)](https://github.com/anuraghazra/github-readme-stats)
+<h2>Hi my name is Daniel 👋 </h2>
+<p>I'm currently a computer science interested in machine learning and mathetmatics in particular online machine learning algorithms and numerical analysis. I'm interested in pursuing a career within data science ,software engineering, and can be contacted at danlee@gatech.edu</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danlee2002)](https://github.com/anuraghazra/github-readme-stats)
 

@@ -1,6 +1,11 @@
 <html>
 <h2>Hi my name is Daniel 👋 </h2>
-<p>I'm currently a computer science interested in machine learning and mathetmatics in particular online machine learning algorithms and numerical analysis. I'm interested in pursuing a career within data science,software engineering, and can be contacted at gogo.daniellee@gmail.com</p>
+<p>
+  <li> Recent GT CS grad</li>
+  <li> SysML and Numerical Methods Nerd</li>
+  <li> Currently learning Rust</li>
+  <li> Reach out to me at gogo.daniellee@gmail.com</li>
+</p>
 </html>
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=danlee2002)
